@@ -1,19 +1,19 @@
-[01:04:20] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[01:04:20] [main/WARN]: Mod resolution failed
-[01:04:20] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE travelersbackpack 10.1.16 {depends cardinal-components-base @ [*]}, ROOT_FORCELOAD_SINGLE travelersbackpack 10.1.16]
-[01:04:20] [main/INFO]: Reason: [HARD_DEP travelersbackpack 10.1.16 {depends cardinal-components-base @ [*]}, HARD_DEP travelersbackpack 10.1.16 {depends cardinal-components-entity @ [*]}, HARD_DEP travelersbackpack 10.1.16 {depends cloth-config2 @ [*]}]
-[01:04:20] [main/INFO]: SERVER environment disabled: [fabric-model-loading-api-v1, fabric-renderer-api-v1, fabric-keybindings-v0, fabric-renderer-registries-v1, fabric-client-tags-api-v1, fabric-screen-api-v1, fabric-rendering-v0, fabric-sound-api-v1, fabric-rendering-v1, fabric-key-binding-api-v1, fabric-renderer-indigo, fabric-blockrenderlayer-v1]
-[01:04:20] [main/INFO]: Fix: add [add:cardinal-components-base 1 ([(-∞,∞)]), add:cardinal-components-entity 1 ([(-∞,∞)]), add:cloth-config2 1 ([(-∞,∞)])], remove [], replace []
-[01:04:20] [main/ERROR]: Incompatible mods found!
+[01:14:23] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[01:14:23] [main/WARN]: Mod resolution failed
+[01:14:23] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE travelersbackpack 10.1.15 {depends cardinal-components-base @ [*]}, ROOT_FORCELOAD_SINGLE travelersbackpack 10.1.15]
+[01:14:23] [main/INFO]: Reason: [HARD_DEP travelersbackpack 10.1.15 {depends cardinal-components-base @ [*]}, HARD_DEP travelersbackpack 10.1.15 {depends cardinal-components-entity @ [*]}, HARD_DEP travelersbackpack 10.1.15 {depends cloth-config2 @ [*]}]
+[01:14:23] [main/INFO]: SERVER environment disabled: [fabric-model-loading-api-v1, fabric-renderer-api-v1, fabric-keybindings-v0, fabric-renderer-registries-v1, fabric-client-tags-api-v1, fabric-sound-api-v1, fabric-rendering-v0, fabric-screen-api-v1, fabric-rendering-v1, fabric-key-binding-api-v1, fabric-renderer-indigo, fabric-blockrenderlayer-v1]
+[01:14:23] [main/INFO]: Fix: add [add:cardinal-components-base 1 ([(-∞,∞)]), add:cardinal-components-entity 1 ([(-∞,∞)]), add:cloth-config2 1 ([(-∞,∞)])], remove [], replace []
+[01:14:23] [main/ERROR]: Incompatible mods found!
 net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
 A potential solution has been determined, this may resolve your problem:
 	 - Install cardinal-components-base, any version.
 	 - Install cardinal-components-entity, any version.
 	 - Install cloth-config2, any version.
 More details:
-	 - Mod 'Traveler's Backpack' (travelersbackpack) 10.1.16 requires any version of cardinal-components-base, which is missing!
-	 - Mod 'Traveler's Backpack' (travelersbackpack) 10.1.16 requires any version of cardinal-components-entity, which is missing!
-	 - Mod 'Traveler's Backpack' (travelersbackpack) 10.1.16 requires any version of cloth-config2, which is missing!
+	 - Mod 'Traveler's Backpack' (travelersbackpack) 10.1.15 requires any version of cardinal-components-base, which is missing!
+	 - Mod 'Traveler's Backpack' (travelersbackpack) 10.1.15 requires any version of cardinal-components-entity, which is missing!
+	 - Mod 'Traveler's Backpack' (travelersbackpack) 10.1.15 requires any version of cloth-config2, which is missing!
 	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:196) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:146) ~[fabric-loader-0.16.3.jar:?]
