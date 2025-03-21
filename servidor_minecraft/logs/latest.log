@@ -111,3 +111,51 @@
 [17:39:54] [Server thread/INFO]: [XxBryankunxX: Teleported XxBryankunxX to Aaronxas]
 [17:41:03] [Server thread/INFO]: [XxBryankunxX: Created new objective [vida]]
 [17:41:24] [Server thread/INFO]: [XxBryankunxX: Set display slot list to show objective vida]
+[17:42:01] [Server thread/INFO]: Aaronxas was slain by Zombie
+[17:42:19] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Spectator Mode]
+[17:42:19] [Server thread/INFO]: Aaronxas has made the advancement [Cover Me with Diamonds]
+[17:43:39] [Server thread/INFO]: [XxBryankunxX: Teleported Aaronxas to XxBryankunxX]
+[17:44:59] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Survival Mode]
+[17:45:36] [Server thread/INFO]: XxBryankunxX has made the advancement [Cover Me with Diamonds]
+[17:46:17] [Server thread/INFO]: Aaronxas has made the advancement [Sneak 100]
+[17:46:21] [Server thread/INFO]: [XxBryankunxX: Teleported XxBryankunxX to Aaronxas]
+[17:46:51] [Server thread/INFO]: XxBryankunxX has made the advancement [Sneak 100]
+[17:47:35] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Spectator Mode]
+[17:48:38] [Server thread/INFO]: Locating element minecraft:ancient_city took 10 ms
+[17:48:38] [Server thread/INFO]: Aaronxas burned to death
+[17:48:41] [Server thread/INFO]: [XxBryankunxX: Teleported XxBryankunxX to -2191.500000, -35.738949, -1007.500000]
+[17:48:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5728ms or 114 ticks behind
+[17:49:15] [Server thread/INFO]: [XxBryankunxX: Teleported Aaronxas to XxBryankunxX]
+[17:49:55] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Survival Mode]
+[17:50:46] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Spectator Mode]
+[17:50:53] [Server thread/INFO]: Aaronxas was slain by Warden
+[17:51:07] [Server thread/INFO]: [XxBryankunxX: Teleported Aaronxas to XxBryankunxX]
+[17:51:59] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Survival Mode]
+[17:52:06] [Server thread/INFO]: Aaronxas was doomed to fall by Warden
+[17:52:15] [Server thread/INFO]: [XxBryankunxX: Teleported Aaronxas to XxBryankunxX]
+[17:54:01] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Spectator Mode]
+[17:54:08] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Survival Mode]
+[17:54:49] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Spectator Mode]
+[17:54:55] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Survival Mode]
+[17:54:57] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Creative Mode]
+[17:55:14] [Server thread/INFO]: XxBryankunxX lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:set_creative_mode_slot'
+[17:55:14] [Server thread/INFO]: XxBryankunxX left the game
+[17:55:26] [Server thread/INFO]: XxBryankunxX[/127.83.18.170:40831] logged in with entity id 9923 at (-2098.538292581062, -50.0, -960.0396239955496)
+[17:55:26] [Server thread/INFO]: XxBryankunxX joined the game
+[17:55:31] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Survival Mode]
+[17:55:54] [Server thread/INFO]: Aaronxas was obliterated by a sonically-charged shriek
+[17:55:57] [Server thread/INFO]: [XxBryankunxX: Teleported Aaronxas to XxBryankunxX]
+[17:56:18] [Server thread/INFO]: [XxBryankunxX: Set own game mode to Creative Mode]
+[17:56:32] [Server thread/INFO]: XxBryankunxX lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:set_creative_mode_slot'
+[17:56:32] [Server thread/INFO]: XxBryankunxX left the game
+[17:57:01] [Server thread/INFO]: Stopping the server
+[17:57:01] [Server thread/INFO]: Stopping server
+[17:57:01] [Server thread/INFO]: Saving players
+[17:57:01] [Server thread/INFO]: Saving worlds
+[17:57:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:57:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:57:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:57:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:57:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:57:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:57:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
