@@ -738,6 +738,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-21 01:28:11 +0000",
       "minecraft:enderman": "2025-03-21 02:28:55 +0000",
+      "minecraft:silverfish": "2025-03-21 17:31:47 +0000",
       "minecraft:witch": "2025-03-21 02:29:29 +0000",
       "minecraft:spider": "2025-03-21 01:27:22 +0000",
       "minecraft:zombie": "2025-03-21 01:26:28 +0000"
@@ -1449,6 +1450,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-03-21 17:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-21 17:34:55 +0000"
     },
     "done": true
   },
